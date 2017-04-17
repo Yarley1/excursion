@@ -1,12 +1,26 @@
 body{
   text-align: center;
-  font-family: verdana;
+  font-family: verdana; sans-serif;
+  background: black;
+  color: white;
 }
 h1{
   font-size: 50px;
+
 }
 
 .cta{
   font-size: 16px;
   color: aquamarine;
+}
+h2{
+  font-size: 42px;
+}
+.body{
+  font-size: 21px;
+  color: grey;
+}
+.footer{
+  text-align: right;
+  color: grey;
 }
